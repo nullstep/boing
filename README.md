@@ -1,0 +1,2 @@
+# boing
+ElasticSearch Interaction Class
