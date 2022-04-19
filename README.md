@@ -1,2 +1,2 @@
 # boing
-ElasticSearch Interaction Class
+a PHP elasticsearch interaction class
